@@ -1,5 +1,7 @@
 console.log("hello")
 
-for (let i=2;i<3;i++){
+let i=0;
+while(i<3){
     console.log("hi")
+    i++;
 }
